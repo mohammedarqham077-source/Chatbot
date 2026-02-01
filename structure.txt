@@ -1,0 +1,7 @@
+simple-rule-based-chatbot/
+│
+├── chatbot.py
+├── knowledge_base.json
+├── requirements.txt
+├── README.md
+└── chat_log.txt   (auto-created when you run the bot)

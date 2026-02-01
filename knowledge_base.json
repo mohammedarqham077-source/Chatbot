@@ -1,0 +1,30 @@
+{
+  "greetings": [
+    "hi",
+    "hello",
+    "hey",
+    "good morning",
+    "good evening"
+  ],
+  "help": [
+    "help",
+    "support",
+    "assist"
+  ],
+  "small_talk": [
+    "how are you",
+    "what's up",
+    "how is it going"
+  ],
+  "responses": {
+    "greeting": "Hello! How can I help you today?",
+    "help": "I can answer basic questions and chat with you.",
+    "small_talk": "I'm just a bot, but I'm doing great! 😊"
+  },
+  "domain": {
+    "chatbot": "A chatbot is a program that simulates human conversation.",
+    "ai": "Artificial Intelligence enables machines to think and learn.",
+    "machine learning": "Machine Learning is a subset of AI that learns from data.",
+    "python": "Python is a popular programming language for AI and automation."
+  }
+}
